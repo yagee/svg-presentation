@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_hamburger</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_hamburger">
+            <rect id="temp" stroke="#979797" fill="#D8D8D8" x="0.5" y="0.5" width="31" height="31"></rect>
+            <path d="M4,14 L28,14 L28,18 L4,18 L4,14 Z M4,6 L28,6 L28,10 L4,10 L4,6 Z M4,22 L28,22 L28,26 L4,26 L4,22 Z" id="Combined-Shape" fill="#000000"></path>
+        </g>
+    </g>
+</svg>
